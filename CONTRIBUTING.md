@@ -1,6 +1,6 @@
-# Contributing to `Sukoon` 
+# Contributing to `Aarogya` 
   
- A big welcome and thank you for considering contributing to **Sukoon** open source project! 😀
+ A big welcome and thank you for considering contributing to **Aarogya** open source project! 😀
 
  *"It’s people like you that make it a reality for users in our community. Happy contributing."*
   
@@ -20,7 +20,7 @@
  ## Code of Conduct
   
  We take our open source community seriously and hold ourselves and other contributors to high standards of communication. By 
- participating and contributing to this project, you agree to uphold our [Code of Conduct](https://github.com/Susmita-Dey/Sukoon/blob/main/CODE_OF_CONDUCT.md). 
+ participating and contributing to this project, you agree to uphold our [Code of Conduct]
   
  ## Getting Started 
   
